@@ -1,5 +1,5 @@
 ## These fucntions calculate the inverse of a Matrix and utilize cacheing to speed up the calculations.
-## 
+
 
 ## makeCacheMatrix creates a list containing functions to
 # 
